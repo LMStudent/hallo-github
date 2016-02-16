@@ -1,4 +1,4 @@
-# hallo-github
+# Über das Projekt
 
 Mein erstes Projekt auf GitHub. Hier erfährst du ein wenig über mich.
 
