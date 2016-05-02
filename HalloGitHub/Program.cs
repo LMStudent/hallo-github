@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
+using System.Net;
 
 namespace HalloGitHub
 {
@@ -10,6 +8,13 @@ namespace HalloGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ich weiß es ist nicht der Hammer, aber trotzdem:");
+            Console.WriteLine("Hallo GitHub".ToUpper());
+
+            Console.WriteLine();
+            Console.WriteLine("Spannender wird es im GitHub-Projekt: LMStudent/hallo-octocat");
+
+            Console.ReadLine();
         }
     }
 }
