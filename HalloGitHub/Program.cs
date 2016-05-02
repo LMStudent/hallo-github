@@ -6,6 +6,8 @@ namespace HalloGitHub
 {
     class Program
     {
+        private static readonly string octocatAsciiArtUrl = @"https://raw.githubusercontent.com/pi314/ascii-arts/master/octocat.asciiart";
+
         static void Main(string[] args)
         {
             Console.WriteLine("Ich weiß es ist nicht der Hammer, aber trotzdem:");
@@ -23,36 +25,49 @@ namespace HalloGitHub
 
             Console.WriteLine();
             Console.Write("Antwort: ");
-            string antwort = Console.ReadLine();
-            int antwortAlsZahl = 0;
-            int.TryParse(antwort, out antwortAlsZahl);
 
-            if (antwortAlsZahl == 42)
+            if (HoleAntwortVomBenutzer() == 42)
             {
-                VerzaubereMitAsciiArt();
+                string asciiArt = LadeAsciiArtVomServer(octocatAsciiArtUrl);
+
+                Console.WriteLine(asciiArt);
+                Console.WriteLine();
+                Console.WriteLine("ASCII-Art aus dem GitHub-Verzeichnis: pi314/ascii-arts - DANKE an pi314!!!");
+
             }
             else
             {
                 Console.WriteLine("Schade, dass war nicht die richtige Antwort.");
             }
 
+            Console.WriteLine("Drücke RETURN zum beenden.");
             Console.ReadLine();
         }
 
-        private static void VerzaubereMitAsciiArt()
+        private static int HoleAntwortVomBenutzer()
         {
-            var webRequest = WebRequest.Create(@"https://raw.githubusercontent.com/pi314/ascii-arts/master/octocat.asciiart");
+            string antwort = Console.ReadLine();
+
+            int antwortAlsZahl = 0;
+            int.TryParse(antwort, out antwortAlsZahl);
+
+            return antwortAlsZahl;
+        }
+
+        private static string LadeAsciiArtVomServer(string url)
+        {
+            string asciiArt = string.Empty;
+
+            var webRequest = WebRequest.Create(url);
 
             using (var response = webRequest.GetResponse())
             using (var content = response.GetResponseStream())
             using (var reader = new StreamReader(content))
             {
-                var strContent = reader.ReadToEnd();
-                Console.WriteLine(strContent);
+                asciiArt = reader.ReadToEnd();
             }
 
-            Console.WriteLine();
-            Console.WriteLine("ASCII-Art aus dem GitHub-Verzeichnis: pi314/ascii-arts");
+            return asciiArt;
         }
     }
 }
