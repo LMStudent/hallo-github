@@ -1,6 +1,6 @@
-# Über LernMoment
+# Über LMStudent
 
-Mein erstes Projekt auf GitHub. Hier erfährst du ein wenig über mich.
+Mein erstes Projekt auf GitHub als LMStudent. Hier erfährst du ein wenig über mich.
 
 Ich bin Jan und Ziel ist es mehr Professionalität in die Softwareentwicklung zu bringen. Dazu habe ich [LernMoment.de](http://www.lernmoment.de) erschaffen. Dort findest du viele Informationen, Artikel und Videos zu den Themen professionelle Softwareentwicklung (insbesondere Methoden und Werkzeuge) und C# (.NET / Mono).
 
