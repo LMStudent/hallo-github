@@ -26,7 +26,7 @@ namespace HalloGitHub
             Console.WriteLine();
             Console.Write("Antwort: ");
 
-            if (HoleAntwortVomBenutzer() == 42)
+            if (HoleAntwortVomBenutzer() == 14)
             {
                 string asciiArt = LadeAsciiArtVomServer(octocatAsciiArtUrl);
 
