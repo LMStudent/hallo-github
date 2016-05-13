@@ -40,6 +40,8 @@ namespace HalloGitHub
                 Console.WriteLine("Schade, dass war nicht die richtige Antwort.");
             }
 
+            ZeigeAbspann();
+
             Console.WriteLine("Drücke RETURN zum beenden.");
             Console.ReadLine();
         }
@@ -68,6 +70,17 @@ namespace HalloGitHub
             }
 
             return asciiArt;
+        }
+
+        private static void ZeigeAbspann()
+        {
+            Console.WriteLine();
+            Console.WriteLine("ABSPANN - Am Kurs haben bisher teilgenommen:");
+
+            Console.WriteLine(" - LMStudent");
+            // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent.
+
+            Console.WriteLine();
         }
     }
 }
