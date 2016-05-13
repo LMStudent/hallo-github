@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalloGitHub", "HalloGitHub\HalloGitHub.csproj", "{B73147D7-531E-4C1B-B009-A986009B2EBA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62F0E2F0-7284-4443-8D18-C4C42D6595C5}"
+	ProjectSection(SolutionItems) = preProject
+		Teilnehmer-Gruesse.md = Teilnehmer-Gruesse.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
