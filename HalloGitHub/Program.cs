@@ -78,6 +78,7 @@ namespace HalloGitHub
             Console.WriteLine("ABSPANN - Am Kurs haben bisher teilgenommen:");
 
             Console.WriteLine(" - LMStudent");
+            Console.WriteLine(" - Evendur");
             Console.WriteLine(" - suchja");
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent.
 
