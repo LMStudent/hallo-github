@@ -80,6 +80,7 @@ namespace HalloGitHub
             Console.WriteLine(" - LMStudent");
             Console.WriteLine(" - Evendur");
             Console.WriteLine(" - suchja");
+            Console.WriteLine(" - s7git");
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent.
 
             Console.WriteLine();
