@@ -7,3 +7,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
 [appoDrome](https://github.com/appOdrome) No. 3 macht weitere Fortschritte!
 [suchja](https://github.com/suchja) -> Grüße eingetragen mit einem "internen" Pull Request
 [s7git](https://github.com/s7git) -> Grüße auch von mir !!
+[manpenaloza](https://github.com/manpenaloza) -> Tolles Udemy Tutorial, danke :)!
