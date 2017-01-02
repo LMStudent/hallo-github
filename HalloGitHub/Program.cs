@@ -83,6 +83,7 @@ namespace HalloGitHub
             Console.WriteLine(" - s7git");  //second Pull Request change
             Console.WriteLine(" - TBone89");
             Console.WriteLine(" - Klatoo");
+            Console.WriteLine(" - Lopi-Of");//zweiter PULL REQUEST
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent.
 
             Console.WriteLine();
