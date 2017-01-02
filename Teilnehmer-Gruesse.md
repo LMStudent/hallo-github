@@ -9,3 +9,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
 [s7git](https://github.com/s7git) -> Grüße auch von mir !!
 [manpenaloza](https://github.com/manpenaloza) -> Tolles Udemy Tutorial, danke :)!
 [klatoo](https://github.com/klatoo) -> und der nächste aus dem Udemy Tutorial
+[lopi-of](https://github.com/lopi-of) -> ich habe es auch geschafft ;-)
