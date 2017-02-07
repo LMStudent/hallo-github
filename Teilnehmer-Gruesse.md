@@ -11,3 +11,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
 [klatoo](https://github.com/klatoo) -> und der nächste aus dem Udemy Tutorial
 [lopi-of](https://github.com/lopi-of) -> ich habe es auch geschafft ;-)
 [CeeeJay](https://github.com/CeeeJay) -> schönes tutorial :)
+[max4040](https://github.com/max4040) -> Grüße auch von mir :-)
