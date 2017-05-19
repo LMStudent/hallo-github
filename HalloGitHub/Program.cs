@@ -86,6 +86,7 @@ namespace HalloGitHub
             Console.WriteLine(" - Lopi-Of");//zweiter PULL REQUEST
             Console.WriteLine(" - CeeeJay");
             Console.WriteLine(" - max4040");
+            Console.WriteLine(" - ringerob");
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent.
 
             Console.WriteLine();
