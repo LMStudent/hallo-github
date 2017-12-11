@@ -19,3 +19,5 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
 [farahzeb](https://github.com/farahzeb) -> Grüße auch von mir :-)  eine Änderung
 [ckruhs](https://github.com/ckruhs) -> Danke für den tollen Kurs :-) - weitere Änderung
 [berndschray] (https://github.com/berndschray/) -> noch mehr Grüße 
+
+[Brotonyum] (https://github.com/brotonyum/) -> Lieber Gruß und ein Danke!
