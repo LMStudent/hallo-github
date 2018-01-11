@@ -22,3 +22,5 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
 [lth99](https://github.com/lth99) -> Danke und liebe Grüße :)
 [0nc3](https://github.com/0nc3) -> **ringdingding Bananaphone!** ***Wer da?*** __Niemand__  >Toller Kurs, vielen Dank!
 [Brotonyum] (https://github.com/brotonyum/) -> Lieber Gruß und ein Danke!
+
+[AzaliaBerlin](https://github.com/AzaliaBerlin) -> Ich bin auch hier ;-)!  
