@@ -88,6 +88,7 @@ namespace HalloGitHub
             Console.WriteLine(" - max4040");
             Console.WriteLine(" - Tachigro"); //Tachi was here
             Console.WriteLine(" - Zollma");
+            Console.WriteLine(" - klochden");
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent.
 
             Console.WriteLine();
