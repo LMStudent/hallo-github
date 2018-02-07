@@ -14,7 +14,7 @@ namespace HalloGitHub
             Console.WriteLine("Hallo GitHub".ToUpper());
 
             Console.WriteLine();
-            Console.WriteLine("Spannender wird es im GitHub-Projekt: LMStudent/hallo-octocat");
+            Console.WriteLine("Spannender wird es im GitHub-Projekt: LMStudent/hallo-octocat"+" oder auf LenrMoment.de");
 
             Console.WriteLine();
             Console.WriteLine("Oder kannst du mir sagen in welcher Lektion des Udemy-Kurses");
@@ -86,6 +86,11 @@ namespace HalloGitHub
             Console.WriteLine(" - Lopi-Of");//zweiter PULL REQUEST
             Console.WriteLine(" - CeeeJay");
             Console.WriteLine(" - Kaivdp"); //Neuer PULL
+            Console.WriteLine(" - max4040");
+            Console.WriteLine(" - ringerob");
+            Console.WriteLine(" - Tachigro"); //Tachi was here
+            Console.WriteLine(" - Zollma");
+            Console.WriteLine(" - klochden");
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent.
 
             Console.WriteLine();
