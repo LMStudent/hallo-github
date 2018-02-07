@@ -15,7 +15,8 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [max4040](https://github.com/max4040) -> Grüße auch von mir :-)  
  - [matsahm](https://github.com/matsahm) -> Versuch 2  
  - [Shpendicus](https://github.com/Shpendicus) - Auch ich habe es hier her geschafft :-)  
- - [ramacker](https://github.com/ramacker) -> Gruss und danke fürs Tutorial!, Zusatz for Re-submission.  
+ - [ramacker](https://github.com/ramacker) -> Gruss und danke fürs Tutorial!, Zusatz for Re-submission. 
+ - [Alexever17](https://github.com/alexever17) --> Danke für den Kurs :) :)
  - [farahzeb](https://github.com/farahzeb) -> Grüße auch von mir :-)  eine Änderung  
  - [ckruhs](https://github.com/ckruhs) -> Danke für den tollen Kurs :-) - weitere Änderung  
  - [Zollma](https://github.com/Zollma/) -> Weihnachtliche Grüße :-)
