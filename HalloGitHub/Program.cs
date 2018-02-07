@@ -85,6 +85,7 @@ namespace HalloGitHub
             Console.WriteLine(" - Klatoo");
             Console.WriteLine(" - Lopi-Of");//zweiter PULL REQUEST
             Console.WriteLine(" - CeeeJay");
+            Console.WriteLine(" - Kaivdp"); //Neuer PULL
             Console.WriteLine(" - max4040");
             Console.WriteLine(" - ringerob");
             Console.WriteLine(" - Tachigro"); //Tachi was here
