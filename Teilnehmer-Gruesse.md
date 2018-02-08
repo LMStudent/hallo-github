@@ -27,3 +27,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [Brotonyum](https://github.com/brotonyum/) -> Lieber Gruß und ein Danke!
  - [JamieBe](https://github.com/JamieBe) -> ... und noch ein Gruß
  - [klochden](https://github.com/klochden) -> Herzliche Grüße an Alle :-)
+ - [eraldik](https://github.com/eraldik) -> Man tastet sich langsam heran :)
