@@ -28,4 +28,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [JamieBe](https://github.com/JamieBe) -> ... und noch ein Gruß
  - [klochden](https://github.com/klochden) -> Herzliche Grüße an Alle :-)
  - [eraldik](https://github.com/eraldik) -> Man tastet sich langsam heran :)
- - [MarkusRitzer] (https://github.com/MarkusRitzer) -> Schöne Grüße und danke für die Einführung in GitHub
+ - [MarkusRitzer](https://github.com/MarkusRitzer) -> Schöne Grüße und danke für die Einführung in GitHub
