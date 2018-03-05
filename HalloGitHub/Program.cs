@@ -91,6 +91,7 @@ namespace HalloGitHub
             Console.WriteLine(" - Tachigro"); //Tachi was here
             Console.WriteLine(" - Zollma");
             Console.WriteLine(" - klochden");
+            Console.WriteLine(" - blauber");
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent.
 
             Console.WriteLine();
