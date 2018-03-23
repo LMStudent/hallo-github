@@ -31,3 +31,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [MarkusRitzer](https://github.com/MarkusRitzer) -> Schöne Grüße und danke für die Einführung in GitHub
  - [blauber](https://github.com/blauber)  Viele Grüsse an alle! :-)
  - [stepweII](https://github.com/stepweII) Sonnige Grüße aus der Domstadt! ;-)
+ - [jgevert](https://github.com/jgevert) Schöne Grüße aus Hamburg!
