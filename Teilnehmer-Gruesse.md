@@ -32,3 +32,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [blauber](https://github.com/blauber)  Viele Grüsse an alle! :-)
  - [stepweII](https://github.com/stepweII) Sonnige Grüße aus der Domstadt! ;-)
  - [jgevert](https://github.com/jgevert) Schöne Grüße aus Hamburg!
+ - [dannypilz](https://github.com/dannypilz) Viele Grüße aus Jena
