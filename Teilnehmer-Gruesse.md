@@ -34,3 +34,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [jgevert](https://github.com/jgevert) Schöne Grüße aus Hamburg!
  - [dannypilz](https://github.com/dannypilz) Viele Grüße aus Jena
  - [wjsteiner](https://github.com/wjsteiner) Frohe Ostern aus PA!
+ - [ranger81](https://github.com/ranger81) Danke für den Kurs und viele Grüße!
