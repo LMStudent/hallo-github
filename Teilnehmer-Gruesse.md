@@ -37,4 +37,5 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [ranger81](https://github.com/ranger81) Danke für den Kurs und viele Grüße!
  - [rocketboy376](https://github.com/rocketboy376) Bo shuda!
  - [RikoNev](https://github.com/RikoNev) Moin!
+ - [something-wrong](https://github.com/something-wrong) Danke und Gruss :)
  
