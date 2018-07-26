@@ -41,3 +41,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [mklimenta](https://github.com/mklimenta) Viele Grüße aus Heilbronn
  - [mhoehne](https://github.com/mhoehne) Hi
  - [dmuehlen](https://github.com/dmuehlen) Viele Grüße. Toller Kurs, weiter so!
+ - [kuehnleb](https://github.com/kuehnleb) Beste Grüße!
