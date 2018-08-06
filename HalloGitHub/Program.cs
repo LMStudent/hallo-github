@@ -97,6 +97,7 @@ namespace HalloGitHub
             Console.WriteLine(" - wjsteiner");
             Console.WriteLine(" - mklimenta"); //zweiter PULL REQUEST
             Console.WriteLine(" - rudi64"); 
+            Console.WriteLine(" - "ulffischer");
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent. 
 
             Console.WriteLine();
