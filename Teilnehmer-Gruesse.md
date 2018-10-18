@@ -43,6 +43,7 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [dmuehlen](https://github.com/dmuehlen) Viele Grüße. Toller Kurs, weiter so!
  - [kuehnleb](https://github.com/kuehnleb) Beste Grüße!
  - [rudi64](https://github.com/rudi64) Viele Grüße aus D bei G! ;P
+ - [ulffischer](https://github.com/ulffischer) **Danke für den Kurs** und viele Grüße aus Berlin!
  - [StefanRieger](https://github.com/StefanRieger) Viele Grüße und noch weiter einen heißen Sommer! :)
  - [Flamm3r](https://github.com/Flamm3r) Hallo, danke für den GitHub Kurs auf Udemy! :)
  - [Alpackisback](https://github.com/Alpackisback) Hi, vielen lieben Dank für den GitHub Kurs auf Udemy
