@@ -48,4 +48,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [Flamm3r](https://github.com/Flamm3r) Hallo, danke für den GitHub Kurs auf Udemy! :)
  - [Alpackisback](https://github.com/Alpackisback) Hi, vielen lieben Dank für den GitHub Kurs auf Udemy
  - [Swufi](https://github.com/Swuffi) Tagchen, hoffe das ich das jetzt so richtig gemacht habe.
- - [denschiro] (https://github.com/denschiro) D was here. 
+ - [denschiro](https://github.com/denschiro) D was here. 
