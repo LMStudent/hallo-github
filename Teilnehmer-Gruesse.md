@@ -50,3 +50,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [Swufi](https://github.com/Swuffi) Tagchen, hoffe das ich das jetzt so richtig gemacht habe.
  - [BaSTeD](https://github.com/BaSTeD) Schöne Grüße aus München! :)
  - [denschiro](https://github.com/denschiro) D was here. 
+ - [maitrenageur](https://github.com/maitrenageur) Viele Grüße aus Paderborn. 
