@@ -52,3 +52,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [denschiro](https://github.com/denschiro) D was here. 
  - [maitrenageur](https://github.com/maitrenageur) Viele Grüße aus Paderborn. 
  - [SirHenry34](https://github.com/SirHenry34) Tolle Erklärungen toller Kurs. LG aus Iserlohn.
+ - [Synthese](https://github.com/Synthese) Tolle Erklärungen guter Kurs.
