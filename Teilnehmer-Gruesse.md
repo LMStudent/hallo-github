@@ -59,4 +59,5 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
 - .[LittleRobby](https://github.com//LittleRobby) Gruesse aus Münster
 -  [PatrickKranig](https://patrickkranig.github.io/About-Me/) Grüße aus Thüringen, mach weiter so!
  - [PBreit76](https://github.com/PBreit76) Hallo und LG aus Bremen.
+ - [holginaut](https://github.com/holginaut) Toller Kurs, vielen lieben Dank! =)
 
