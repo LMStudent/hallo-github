@@ -61,4 +61,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [PBreit76](https://github.com/PBreit76) Hallo und LG aus Bremen.
  - [holginaut](https://github.com/holginaut) Toller Kurs, vielen lieben Dank! =)
  - [GrazDesign](https://github.com/GrazDesign) Viele Grüße aus Norden. Danke für den toollen Kurs.
-
+ - [adsoe](https://github.com/adsoe) Danke für den Kurs. Grüße aus Schöneiche.
