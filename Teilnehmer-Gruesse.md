@@ -65,3 +65,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [Beeb2402](https://github.com/Beeb2402) Schöne grüße
  - [meikon123](https://github.com/meikon123) Schöne grüße. Danke
  - [kritzelgeist](https://github.com/kritzelgeist) Vielen Dank für den tollen Kurs :)
+ - [deathtrap3](https://github.com/deathtrap3) Liebe Grüße aus Österreich 
