@@ -67,3 +67,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [kritzelgeist](https://github.com/kritzelgeist) Vielen Dank für den tollen Kurs :)
  - [deathtrap3](https://github.com/deathtrap3) Liebe Grüße aus Österreich 
  - [felixdittrich92](https://github.com/felixdittrich92) Danke für den Kurs. LG aus Leipzig
+ - [ali3654](https://github.com/ali3654) Schöne grüße und danke für den Kurs. LG aus Düsseldorf.
