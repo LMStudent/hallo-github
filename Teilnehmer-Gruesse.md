@@ -56,8 +56,8 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [climbo](https://github.com/climbo) Buenos días!
  - [ipa-fke-fs](https://github.com/ipa-fke-fs) Viele Grüße!
  - [fr0styAT](https://github.com/fr0styAT) Danke für den Kurs auf Udemy :) Lg aus Wien
-- .[LittleRobby](https://github.com//LittleRobby) Gruesse aus Münster
--  [PatrickKranig](https://patrickkranig.github.io/About-Me/) Grüße aus Thüringen, mach weiter so!
+ - [LittleRobby](https://github.com//LittleRobby) Gruesse aus Münster
+ - [PatrickKranig](https://patrickkranig.github.io/About-Me/) Grüße aus Thüringen, mach weiter so!
  - [PBreit76](https://github.com/PBreit76) Hallo und LG aus Bremen.
  - [holginaut](https://github.com/holginaut) Toller Kurs, vielen lieben Dank! =)
  - [GrazDesign](https://github.com/GrazDesign) Viele Grüße aus Norden. Danke für den toollen Kurs.
@@ -69,5 +69,5 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [felixdittrich92](https://github.com/felixdittrich92) Danke für den Kurs. LG aus Leipzig
  - [ali3654](https://github.com/ali3654) Schöne grüße und danke für den Kurs. LG aus Düsseldorf.
  - [Juergen-Busch](https://github.com/Juergen-Busch) Danke für den Kurs. Grüße aus Leipzig!
- [helloourson](https://github.com/helloourson) Schönen Gruss aus der Schweiz. 
+ - [helloourson](https://github.com/helloourson) Schönen Gruss aus der Schweiz. 
  
