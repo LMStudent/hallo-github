@@ -103,6 +103,7 @@ namespace HalloGitHub
             Console.WriteLine(" - delinklink");
             Console.WriteLine(" - ElbPsi");
             Console.WriteLine(" - felixdittrich92");
+            Console.WriteLine(" - nicolibi");
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent. 
 
             Console.WriteLine();
