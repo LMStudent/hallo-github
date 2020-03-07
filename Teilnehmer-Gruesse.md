@@ -73,3 +73,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [ARDegen](https://github.com/ARDegen) Schönen Gruss aus Jena.
  - [nicolibi](https://github.com/nicolibi) Viele Grüße aus Darmstadt!
  - [jgonser](https://github.com/jgonser) Viele Grüßecken! 
+ - [vb-data](https://github.com/vb-data) Spät - aber doch - auch von mir noch liebe Grüße! ;-)
