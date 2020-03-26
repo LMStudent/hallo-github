@@ -104,6 +104,7 @@ namespace HalloGitHub
             Console.WriteLine(" - ElbPsi");
             Console.WriteLine(" - felixdittrich92");
             Console.WriteLine(" - nicolibi");
+            Console.WriteLine(" - Zak McKracken");
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent. 
 
             Console.WriteLine();
