@@ -75,4 +75,5 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [jgonser](https://github.com/jgonser) Viele Grüßecken! 
  - [vb-data](https://github.com/vb-data) Spät - aber doch - auch von mir noch liebe Grüße! ;-)
  - [chrisfrie](https://github.com/chrisfrie) Grüße aus Leipzig und vielen Dank für die Infos zu Github!  :-)
- - [knollmic](https://github.com/knollmic) Grüße, cooles Tutorial 
+ - [knollmic](https://github.com/knollmic) Grüße, cooles Tutorial
+ - [liatthey](https://github.com/liatthey) Grüsse aus der Schweiz!
