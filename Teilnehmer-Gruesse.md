@@ -84,3 +84,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [Nilorac](https://github.com/nilorac) Liebe Grüße und Danke für die Einführung
  - [Schwenksen](https://github.com/Schwenksen) Schöne Grüße von der Ostsee und vielen Dank für das Tutorial!
  - [ideenstrasse](https://github.com/ideenstrasse) Gruß aus NRW
+ - [sgaechter](https://github.com/sgaechter) Grüsse aus der Schweiz. Dies ist ein Gelungener Kurs. Danke fürs bereitstellen.
