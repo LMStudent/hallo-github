@@ -86,4 +86,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [ideenstrasse](https://github.com/ideenstrasse) Gruß aus NRW
  - [sgaechter](https://github.com/sgaechter) Grüsse aus der Schweiz. Dies ist ein Gelungener Kurs. Danke fürs bereitstellen.
  - [miasyIOS](https://github.com/miasyIOS) Moin aus der Nähe von Hamburg und besten Dank für dass hilfreiche Tutorial.
-- [Lenzelott] Danke für die kurze Einführung.
+ - [Lenzelott](https://github.com/Lenzelott) Danke für die kurze Einführung.
