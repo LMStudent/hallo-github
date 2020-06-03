@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Net;
 
@@ -107,6 +107,7 @@ namespace HalloGitHub
             Console.WriteLine(" - Zak McKracken");
             Console.WriteLine(" - hannesa7x");
             Console.WriteLine(" - Confectix");
+            Console.WriteLine(" - DenisGeist");
             Console.WriteLine(" - Lenzelott");
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent. 
 
