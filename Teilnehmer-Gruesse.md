@@ -88,3 +88,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [miasyIOS](https://github.com/miasyIOS) Moin aus der Nähe von Hamburg und besten Dank für dass hilfreiche Tutorial.
  - [Lenzelott](https://github.com/Lenzelott) Danke für die kurze Einführung.
  - [andko76](https://github.com/andko76) Danke für die das gute Schulungsvideo über Github
+ - [DerBlauerRitter](https://github.com/DerBlauerRitter) Danke für die Schulung.
