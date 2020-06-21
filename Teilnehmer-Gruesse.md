@@ -89,3 +89,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [Lenzelott](https://github.com/Lenzelott) Danke für die kurze Einführung.
  - [andko76](https://github.com/andko76) Danke für die das gute Schulungsvideo über Github
  - [DerBlauerRitter](https://github.com/DerBlauerRitter) Danke für die Schulung.
+ - [MK-NEUKO](https://github.com/MK-NEUKO) Grüße aus Visual Studio, Übung macht den Meister.
