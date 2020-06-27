@@ -90,3 +90,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [andko76](https://github.com/andko76) Danke für die das gute Schulungsvideo über Github
  - [DerBlauerRitter](https://github.com/DerBlauerRitter) Danke für die Schulung.
  - [MK-NEUKO](https://github.com/MK-NEUKO) Grüße aus Visual Studio, Übung macht den Meister.
+ - [agrib-01](https://github.com/agrib-01) Gruß aus Köln. 
