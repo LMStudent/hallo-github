@@ -91,3 +91,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [DerBlauerRitter](https://github.com/DerBlauerRitter) Danke für die Schulung.
  - [MK-NEUKO](https://github.com/MK-NEUKO) Grüße aus Visual Studio, Übung macht den Meister.
  - [agrib-01](https://github.com/agrib-01) Gruß aus Köln. 
+ - [AndresRedondo87](https://github.com/AndresRedondo87) -> Danke nochmal für die Kurse, tolle Arbeit! :)
