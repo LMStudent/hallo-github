@@ -93,3 +93,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [agrib-01](https://github.com/agrib-01) Gruß aus Köln. 
  - [AndresRedondo87](https://github.com/AndresRedondo87) -> Danke nochmal für die Kurse, tolle Arbeit! :)
  - [ocpure](https://github.com/ocpure) -> Besten Gruß.
+ - [escuco](https://github.com/escuco) -> Danke für das Tutorial, welches gut in diesen Sonntag Vormittag past :)
