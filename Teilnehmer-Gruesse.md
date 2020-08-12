@@ -94,3 +94,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [AndresRedondo87](https://github.com/AndresRedondo87) -> Danke nochmal für die Kurse, tolle Arbeit! :)
  - [ocpure](https://github.com/ocpure) -> Besten Gruß.
  - [Gravimotion](https://github.com/Gravimotion) Danke für das Tutorial!
+ - [zondarg](https://github.com/zondarg) Grüße und danke für den Kurs!
