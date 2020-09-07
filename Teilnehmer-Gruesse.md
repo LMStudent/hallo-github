@@ -97,4 +97,5 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [zondarg](https://github.com/zondarg) Grüße und danke für den Kurs!
  - [escuco](https://github.com/escuco) -> Danke für das Tutorial, welches gut in diesen Sonntag Vormittag past :)
  - [Octagon123](https://github.com/Octagon123) -> Hi und schöne Grüße!
+ - [Steffi311](https://github.com/Steffi311) -> Viele Grüße auch von mir :)
  - [velotist](https://github.com/velotist] -> Weiterhin viel Erfolg allen.
