@@ -95,6 +95,7 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [ocpure](https://github.com/ocpure) -> Besten Gruß.
  - [Gravimotion](https://github.com/Gravimotion) Danke für das Tutorial!
  - [zondarg](https://github.com/zondarg) Grüße und danke für den Kurs!
- - [escuco](https://github.com/escuco) -> Danke für das Tutorial, welches gut in diesen Sonntag Vormittag past :)
+ - [escuco](https://github.com/escuco) -> Danke für das Tutorial, welches gut in diesen Sonntag Vormittag passt :)
  - [Octagon123](https://github.com/Octagon123) -> Hi und schöne Grüße!
  - [velotist](https://github.com/velotist] -> Weiterhin viel Erfolg allen.
+ - [m.w.a8] geschafft
