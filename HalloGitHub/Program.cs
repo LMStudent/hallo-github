@@ -14,12 +14,12 @@ namespace HalloGitHub
             Console.WriteLine("Hallo GitHub".ToUpper());
 
             Console.WriteLine();
-            Console.WriteLine("Spannender wird es im GitHub-Projekt: LMStudent/hallo-octocat"+" oder auf LenrMoment.de");
+            Console.WriteLine("Spannender wird es im GitHub-Projekt: LMStudent/hallo-octocat"+" oder auf LernMoment.de");
 
             Console.WriteLine();
             Console.WriteLine("Oder kannst du mir sagen in welcher Lektion des Udemy-Kurses");
             Console.WriteLine("'Einstieg in GitHub - professionelle Entwicklung im Team'");
-            Console.WriteLine("dieses Projekt zu erst verwendet wird? Mit der richtigen Antwort ");
+            Console.WriteLine("dieses Projekt zuerst verwendet wird? Mit der richtigen Antwort ");
             Console.WriteLine("bekommst du noch ein wenig ASCII-Art von pi314 in deine Konsole!");
             Console.WriteLine("TIP: Schaue in der Kursbeschreibung oder im Quellcode nach ;-)");
 
@@ -112,7 +112,8 @@ namespace HalloGitHub
             Console.WriteLine(" - RedLenco");
             Console.WriteLine(" - MK-NEUKO");
             Console.WriteLine(" - AndresRedondo87");
-            // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent. 
+            Console.WriteLine(" - wossi64");
+            // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent.
 
             Console.WriteLine();
         }
