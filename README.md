@@ -12,6 +12,6 @@ Diesen Account verwende ich um in Videos, Tutorials und Online-Kursen den Teilne
 
 # Über hallo-github
 
-Ein Projekt, welches ich in meinem Kurs [Einstieg in GitHub: Entwickle Software wie die Profis](http://www.lernmoment.de/einstieg-github/) verwende. Mithilfe von diesem Projekt zeige ich dir im Kurs wie du ein *Visual Studio 2015* - Projekt mit deinem GitHub-Projekt synchronisieren kannst. Darüberhinaus lernst du im Kurs alles was du benötigst, um an Open-Source-Projekten zu arbeiten oder dir selber Hilfe aus der Community zu holen.
+Ein Projekt welches ich in meinem Kurs [Einstieg in GitHub: Entwickle Software wie die Profis](http://www.lernmoment.de/einstieg-github/) verwende. Mithilfe von diesem Projekt zeige ich dir im Kurs wie du ein *Visual Studio 2015* - Projekt mit deinem GitHub-Projekt synchronisieren kannst. Darüberhinaus lernst du im Kurs alles was du benötigst, um an Open-Source-Projekten zu arbeiten oder dir selber Hilfe aus der Community zu holen.
 
 HINWEIS: Führe diese Anwendung aus und du siehst eine coole ASCII-Art von [pi314](https://github.com/pi314/ascii-arts). Dafür musst du allerdings eine Frage beantworten. Viel Spaß damit.
