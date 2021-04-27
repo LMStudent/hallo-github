@@ -1,101 +1,100 @@
-
 # Grüsse von Teilnehmern des GitHub-Kurses
 
 Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markdown-Syntax verwendest: `[username](url)`
 
- - [LMStudent](https://github.com/LMStudent) -> Ich bin erster hier ;-)!  
- - [Evendur](https://github.com/Evendur) -> Dann bin ich mal Nummer 2 ^^  
- - [appoDrome](https://github.com/appOdrome) No. 3 macht weitere Fortschritte!  
- - [suchja](https://github.com/suchja) -> Grüße eingetragen mit einem "internen" Pull Request  
- - [s7git](https://github.com/s7git) -> Grüße auch von mir !!  
- - [manpenaloza](https://github.com/manpenaloza) -> Tolles Udemy Tutorial, danke :)!  
- - [klatoo](https://github.com/klatoo) -> und der nächste aus dem Udemy Tutorial  
- - [lopi-of](https://github.com/lopi-of) -> ich habe es auch geschafft ;-)  
- - [CeeeJay](https://github.com/CeeeJay) -> schönes tutorial :)  
- - [max4040](https://github.com/max4040) -> Grüße auch von mir :-)  
- - [matsahm](https://github.com/matsahm) -> Versuch 2  
- - [Shpendicus](https://github.com/Shpendicus) - Auch ich habe es hier her geschafft :-)  
- - [ramacker](https://github.com/ramacker) -> Gruss und danke fürs Tutorial!, Zusatz for Re-submission. 
- - [Alexever17](https://github.com/alexever17) --> Danke für den Kurs :) :)
- - [ringerob](https://github.com/ringerob) -> Danke für die gute Einführung. :)
- - [farahzeb](https://github.com/farahzeb) -> Grüße auch von mir :-)  eine Änderung  
- - [ckruhs](https://github.com/ckruhs) -> Danke für den tollen Kurs :-) - weitere Änderung  
- - [Zollma](https://github.com/Zollma/) -> Weihnachtliche Grüße :-)
- - [berndschray](https://github.com/berndschray/) -> noch mehr Grüße   
- - [lth99](https://github.com/lth99) -> Danke und liebe Grüße :)
- - [0nc3](https://github.com/0nc3) -> **ringdingding Bananaphone!** ***Wer da?*** __Niemand__  >Toller Kurs, vielen Dank!
- - [Brotonyum](https://github.com/brotonyum/) -> Lieber Gruß und ein Danke!
- - [JamieBe](https://github.com/JamieBe) -> ... und noch ein Gruß
- - [klochden](https://github.com/klochden) -> Herzliche Grüße an Alle :-)
- - [eraldik](https://github.com/eraldik) -> Man tastet sich langsam heran :)
- - [MarkusRitzer](https://github.com/MarkusRitzer) -> Schöne Grüße und danke für die Einführung in GitHub
- - [blauber](https://github.com/blauber)  Viele Grüsse an alle! :-)
- - [stepweII](https://github.com/stepweII) Sonnige Grüße aus der Domstadt! ;-)
- - [jgevert](https://github.com/jgevert) Schöne Grüße aus Hamburg!
- - [dannypilz](https://github.com/dannypilz) Viele Grüße aus Jena
- - [wjsteiner](https://github.com/wjsteiner) Frohe Ostern aus PA!
- - [ranger81](https://github.com/ranger81) Danke für den Kurs und viele Grüße!
- - [rocketboy376](https://github.com/rocketboy376) Bo shuda!
- - [RikoNev](https://github.com/RikoNev) Moin!
- - [something-wrong](https://github.com/something-wrong) Danke und Gruss :)
- - [mklimenta](https://github.com/mklimenta) Viele Grüße aus Heilbronn
- - [mhoehne](https://github.com/mhoehne) Hi
- - [dmuehlen](https://github.com/dmuehlen) Viele Grüße. Toller Kurs, weiter so!
- - [kuehnleb](https://github.com/kuehnleb) Beste Grüße!
- - [rudi64](https://github.com/rudi64) Viele Grüße aus D bei G! ;P
- - [ulffischer](https://github.com/ulffischer) **Danke für den Kurs** und viele Grüße aus Berlin!
- - [StefanRieger](https://github.com/StefanRieger) Viele Grüße und noch weiter einen heißen Sommer! :)
- - [Flamm3r](https://github.com/Flamm3r) Hallo, danke für den GitHub Kurs auf Udemy! :)
- - [Alpackisback](https://github.com/Alpackisback) Hi, vielen lieben Dank für den GitHub Kurs auf Udemy
- - [Swufi](https://github.com/Swuffi) Tagchen, hoffe das ich das jetzt so richtig gemacht habe.
- - [BaSTeD](https://github.com/BaSTeD) Schöne Grüße aus München! :)
- - [denschiro](https://github.com/denschiro) D was here. 
- - [maitrenageur](https://github.com/maitrenageur) Viele Grüße aus Paderborn. 
- - [SirHenry34](https://github.com/SirHenry34) Tolle Erklärungen toller Kurs. LG aus Iserlohn.
- - [Synthese](https://github.com/Synthese) Tolle Erklärungen guter Kurs.
- - [climbo](https://github.com/climbo) Buenos días!
- - [ipa-fke-fs](https://github.com/ipa-fke-fs) Viele Grüße!
- - [fr0styAT](https://github.com/fr0styAT) Danke für den Kurs auf Udemy :) Lg aus Wien
- - [LittleRobby](https://github.com//LittleRobby) Gruesse aus Münster
- - [PatrickKranig](https://patrickkranig.github.io/About-Me/) Grüße aus Thüringen, mach weiter so!
- - [PBreit76](https://github.com/PBreit76) Hallo und LG aus Bremen.
- - [holginaut](https://github.com/holginaut) Toller Kurs, vielen lieben Dank! =)
- - [GrazDesign](https://github.com/GrazDesign) Viele Grüße aus Norden. Danke für den toollen Kurs.
- - [adsoe](https://github.com/adsoe) Danke für den Kurs. Grüße aus Schöneiche.
- - [Beeb2402](https://github.com/Beeb2402) Schöne grüße
- - [meikon123](https://github.com/meikon123) Schöne grüße. Danke
- - [kritzelgeist](https://github.com/kritzelgeist) Vielen Dank für den tollen Kurs :)
- - [deathtrap3](https://github.com/deathtrap3) Liebe Grüße aus Österreich 
- - [felixdittrich92](https://github.com/felixdittrich92) Danke für den Kurs. LG aus Leipzig
- - [ali3654](https://github.com/ali3654) Schöne grüße und danke für den Kurs. LG aus Düsseldorf.
- - [Juergen-Busch](https://github.com/Juergen-Busch) Danke für den Kurs. Grüße aus Leipzig!
- - [helloourson](https://github.com/helloourson) Schönen Gruss aus der Schweiz.
- - [ARDegen](https://github.com/ARDegen) Schönen Gruss aus Jena.
- - [nicolibi](https://github.com/nicolibi) Viele Grüße aus Darmstadt!
- - [jgonser](https://github.com/jgonser) Viele Grüßecken! 
- - [vb-data](https://github.com/vb-data) Spät - aber doch - auch von mir noch liebe Grüße! ;-)
- - [chrisfrie](https://github.com/chrisfrie) Grüße aus Leipzig und vielen Dank für die Infos zu Github!  :-)
- - [knollmic](https://github.com/knollmic) Grüße, cooles Tutorial
- - [liatthey](https://github.com/liatthey) Grüsse aus der Schweiz!
- - [hannesa7x](https://github.com/hannesa7x) Buongiorno und liebe Grüße aus dem abgesperrten Italien :
- - [juergli](https://github.com/juergli) Gruss aus der Schweiz (Basel).
- - [Coffeedrunker](https://github.com/Coffeedrunker) Grüße aus dem Ruhrpott, tolles Tutorial
- - [AVAgatoah](https://github.com/AVAgatoah) No. 78 - & Grüße aus Hannover
- - [Nilorac](https://github.com/nilorac) Liebe Grüße und Danke für die Einführung
- - [Schwenksen](https://github.com/Schwenksen) Schöne Grüße von der Ostsee und vielen Dank für das Tutorial!
- - [ideenstrasse](https://github.com/ideenstrasse) Gruß aus NRW
- - [sgaechter](https://github.com/sgaechter) Grüsse aus der Schweiz. Dies ist ein Gelungener Kurs. Danke fürs bereitstellen.
- - [miasyIOS](https://github.com/miasyIOS) Moin aus der Nähe von Hamburg und besten Dank für dass hilfreiche Tutorial.
- - [Lenzelott](https://github.com/Lenzelott) Danke für die kurze Einführung.
- - [andko76](https://github.com/andko76) Danke für die das gute Schulungsvideo über Github
- - [DerBlauerRitter](https://github.com/DerBlauerRitter) Danke für die Schulung.
- - [MK-NEUKO](https://github.com/MK-NEUKO) Grüße aus Visual Studio, Übung macht den Meister.
- - [agrib-01](https://github.com/agrib-01) Gruß aus Köln. 
- - [AndresRedondo87](https://github.com/AndresRedondo87) -> Danke nochmal für die Kurse, tolle Arbeit! :)
- - [ocpure](https://github.com/ocpure) -> Besten Gruß.
- - [Gravimotion](https://github.com/Gravimotion) Danke für das Tutorial!
- - [zondarg](https://github.com/zondarg) Grüße und danke für den Kurs!
- - [escuco](https://github.com/escuco) -> Danke für das Tutorial, welches gut in diesen Sonntag Vormittag past :)
- - [Octagon123](https://github.com/Octagon123) -> Hi und schöne Grüße!
- - [velotist](https://github.com/velotist] -> Weiterhin viel Erfolg allen.
-[joachim27]-> Gruß aus Berlin! Super Kurs, weiter so! Werde bestimmt noch viel lernen und Spaßhaben
+- [LMStudent](https://github.com/LMStudent) -> Ich bin erster hier ;-)!
+- [Evendur](https://github.com/Evendur) -> Dann bin ich mal Nummer 2 ^^
+- [appoDrome](https://github.com/appOdrome) No. 3 macht weitere Fortschritte!
+- [suchja](https://github.com/suchja) -> Grüße eingetragen mit einem "internen" Pull Request
+- [s7git](https://github.com/s7git) -> Grüße auch von mir !!
+- [manpenaloza](https://github.com/manpenaloza) -> Tolles Udemy Tutorial, danke :)!
+- [klatoo](https://github.com/klatoo) -> und der nächste aus dem Udemy Tutorial
+- [lopi-of](https://github.com/lopi-of) -> ich habe es auch geschafft ;-)
+- [CeeeJay](https://github.com/CeeeJay) -> schönes tutorial :)
+- [max4040](https://github.com/max4040) -> Grüße auch von mir :-)
+- [matsahm](https://github.com/matsahm) -> Versuch 2
+- [Shpendicus](https://github.com/Shpendicus) - Auch ich habe es hier her geschafft :-)
+- [ramacker](https://github.com/ramacker) -> Gruss und danke fürs Tutorial!, Zusatz for Re-submission.
+- [Alexever17](https://github.com/alexever17) --> Danke für den Kurs :) :)
+- [ringerob](https://github.com/ringerob) -> Danke für die gute Einführung. :)
+- [farahzeb](https://github.com/farahzeb) -> Grüße auch von mir :-) eine Änderung
+- [ckruhs](https://github.com/ckruhs) -> Danke für den tollen Kurs :-) - weitere Änderung
+- [Zollma](https://github.com/Zollma/) -> Weihnachtliche Grüße :-)
+- [berndschray](https://github.com/berndschray/) -> noch mehr Grüße
+- [lth99](https://github.com/lth99) -> Danke und liebe Grüße :)
+- [0nc3](https://github.com/0nc3) -> **ringdingding Bananaphone!** **_Wer da?_** **Niemand** >Toller Kurs, vielen Dank!
+- [Brotonyum](https://github.com/brotonyum/) -> Lieber Gruß und ein Danke!
+- [JamieBe](https://github.com/JamieBe) -> ... und noch ein Gruß
+- [klochden](https://github.com/klochden) -> Herzliche Grüße an Alle :-)
+- [eraldik](https://github.com/eraldik) -> Man tastet sich langsam heran :)
+- [MarkusRitzer](https://github.com/MarkusRitzer) -> Schöne Grüße und danke für die Einführung in GitHub
+- [blauber](https://github.com/blauber) Viele Grüsse an alle! :-)
+- [stepweII](https://github.com/stepweII) Sonnige Grüße aus der Domstadt! ;-)
+- [jgevert](https://github.com/jgevert) Schöne Grüße aus Hamburg!
+- [dannypilz](https://github.com/dannypilz) Viele Grüße aus Jena
+- [wjsteiner](https://github.com/wjsteiner) Frohe Ostern aus PA!
+- [ranger81](https://github.com/ranger81) Danke für den Kurs und viele Grüße!
+- [rocketboy376](https://github.com/rocketboy376) Bo shuda!
+- [RikoNev](https://github.com/RikoNev) Moin!
+- [something-wrong](https://github.com/something-wrong) Danke und Gruss :)
+- [mklimenta](https://github.com/mklimenta) Viele Grüße aus Heilbronn
+- [mhoehne](https://github.com/mhoehne) Hi
+- [dmuehlen](https://github.com/dmuehlen) Viele Grüße. Toller Kurs, weiter so!
+- [kuehnleb](https://github.com/kuehnleb) Beste Grüße!
+- [rudi64](https://github.com/rudi64) Viele Grüße aus D bei G! ;P
+- [ulffischer](https://github.com/ulffischer) **Danke für den Kurs** und viele Grüße aus Berlin!
+- [StefanRieger](https://github.com/StefanRieger) Viele Grüße und noch weiter einen heißen Sommer! :)
+- [Flamm3r](https://github.com/Flamm3r) Hallo, danke für den GitHub Kurs auf Udemy! :)
+- [Alpackisback](https://github.com/Alpackisback) Hi, vielen lieben Dank für den GitHub Kurs auf Udemy
+- [Swufi](https://github.com/Swuffi) Tagchen, hoffe das ich das jetzt so richtig gemacht habe.
+- [BaSTeD](https://github.com/BaSTeD) Schöne Grüße aus München! :)
+- [denschiro](https://github.com/denschiro) D was here.
+- [maitrenageur](https://github.com/maitrenageur) Viele Grüße aus Paderborn.
+- [SirHenry34](https://github.com/SirHenry34) Tolle Erklärungen toller Kurs. LG aus Iserlohn.
+- [Synthese](https://github.com/Synthese) Tolle Erklärungen guter Kurs.
+- [climbo](https://github.com/climbo) Buenos días!
+- [ipa-fke-fs](https://github.com/ipa-fke-fs) Viele Grüße!
+- [fr0styAT](https://github.com/fr0styAT) Danke für den Kurs auf Udemy :) Lg aus Wien
+- [LittleRobby](https://github.com//LittleRobby) Gruesse aus Münster
+- [PatrickKranig](https://patrickkranig.github.io/About-Me/) Grüße aus Thüringen, mach weiter so!
+- [PBreit76](https://github.com/PBreit76) Hallo und LG aus Bremen.
+- [holginaut](https://github.com/holginaut) Toller Kurs, vielen lieben Dank! =)
+- [GrazDesign](https://github.com/GrazDesign) Viele Grüße aus Norden. Danke für den toollen Kurs.
+- [adsoe](https://github.com/adsoe) Danke für den Kurs. Grüße aus Schöneiche.
+- [Beeb2402](https://github.com/Beeb2402) Schöne grüße
+- [meikon123](https://github.com/meikon123) Schöne grüße. Danke
+- [kritzelgeist](https://github.com/kritzelgeist) Vielen Dank für den tollen Kurs :)
+- [deathtrap3](https://github.com/deathtrap3) Liebe Grüße aus Österreich
+- [felixdittrich92](https://github.com/felixdittrich92) Danke für den Kurs. LG aus Leipzig
+- [ali3654](https://github.com/ali3654) Schöne grüße und danke für den Kurs. LG aus Düsseldorf.
+- [Juergen-Busch](https://github.com/Juergen-Busch) Danke für den Kurs. Grüße aus Leipzig!
+- [helloourson](https://github.com/helloourson) Schönen Gruss aus der Schweiz.
+- [ARDegen](https://github.com/ARDegen) Schönen Gruss aus Jena.
+- [nicolibi](https://github.com/nicolibi) Viele Grüße aus Darmstadt!
+- [jgonser](https://github.com/jgonser) Viele Grüßecken!
+- [vb-data](https://github.com/vb-data) Spät - aber doch - auch von mir noch liebe Grüße! ;-)
+- [chrisfrie](https://github.com/chrisfrie) Grüße aus Leipzig und vielen Dank für die Infos zu Github! :-)
+- [knollmic](https://github.com/knollmic) Grüße, cooles Tutorial
+- [liatthey](https://github.com/liatthey) Grüsse aus der Schweiz!
+- [hannesa7x](https://github.com/hannesa7x) Buongiorno und liebe Grüße aus dem abgesperrten Italien :
+- [juergli](https://github.com/juergli) Gruss aus der Schweiz (Basel).
+- [Coffeedrunker](https://github.com/Coffeedrunker) Grüße aus dem Ruhrpott, tolles Tutorial
+- [AVAgatoah](https://github.com/AVAgatoah) No. 78 - & Grüße aus Hannover
+- [Nilorac](https://github.com/nilorac) Liebe Grüße und Danke für die Einführung
+- [Schwenksen](https://github.com/Schwenksen) Schöne Grüße von der Ostsee und vielen Dank für das Tutorial!
+- [ideenstrasse](https://github.com/ideenstrasse) Gruß aus NRW
+- [sgaechter](https://github.com/sgaechter) Grüsse aus der Schweiz. Dies ist ein Gelungener Kurs. Danke fürs bereitstellen.
+- [miasyIOS](https://github.com/miasyIOS) Moin aus der Nähe von Hamburg und besten Dank für dass hilfreiche Tutorial.
+- [Lenzelott](https://github.com/Lenzelott) Danke für die kurze Einführung.
+- [andko76](https://github.com/andko76) Danke für die das gute Schulungsvideo über Github
+- [DerBlauerRitter](https://github.com/DerBlauerRitter) Danke für die Schulung.
+- [MK-NEUKO](https://github.com/MK-NEUKO) Grüße aus Visual Studio, Übung macht den Meister.
+- [agrib-01](https://github.com/agrib-01) Gruß aus Köln.
+- [AndresRedondo87](https://github.com/AndresRedondo87) -> Danke nochmal für die Kurse, tolle Arbeit! :)
+- [ocpure](https://github.com/ocpure) -> Besten Gruß.
+- [Gravimotion](https://github.com/Gravimotion) Danke für das Tutorial!
+- [zondarg](https://github.com/zondarg) Grüße und danke für den Kurs!
+- [escuco](https://github.com/escuco) -> Danke für das Tutorial, welches gut in diesen Sonntag Vormittag past :)
+- [Octagon123](https://github.com/Octagon123) -> Hi und schöne Grüße!
+- [velotist](https://github.com/velotist] -> Weiterhin viel Erfolg allen.
+  [joachim27]-> Gruß aus Berlin! Super Kurs, weiter so! Werde bestimmt noch viel lernen und Spaß haben. Der Editor unter GitHub ist doch etwas gewöhnungs bedürftig!
