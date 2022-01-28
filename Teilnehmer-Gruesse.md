@@ -98,3 +98,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [escuco](https://github.com/escuco) -> Danke für das Tutorial, welches gut in diesen Sonntag Vormittag past :)
  - [Octagon123](https://github.com/Octagon123) -> Hi und schöne Grüße!
  - [velotist](https://github.com/velotist] -> Weiterhin viel Erfolg allen.
+ - [Jani303](https://github.com/Jani303) -> Besten Dank für die Insights und liebe Grüße!
